@@ -23,7 +23,7 @@ pip install -r requirements.txt --upgrade
 
 ## Structure
 
-1. Controllers for APIs needed to do ML
+1. Controllers for APIs needed and handling requests.
 2. Models for Database structuring
 3. Scripts for custom jobs and intiating projects.
 4. Workers for cron and queing based jobs
